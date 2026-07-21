@@ -6,7 +6,7 @@ Akkor győz a játékos, ha megtalálta az összes párt.
 
 ## Elindítás lépései
 
-- Futtasd az alkalmazást a(z) `src`  mappából a `python3 main.py` paranccsal. **FONTOS:** linuxon bármilyen terminálból futtatható, windows-on használj `cmd`-t vagy `wsl`-t, az alkalmazás nem fog rendeltetésszerűen működni `git-bash` vagy PyCharm run környezetben!
+- Futtasd az alkalmazást a(z) `src`  mappából a `python3 main.py` paranccsal.
 
 ## Implementáladnó feature-ök
 
